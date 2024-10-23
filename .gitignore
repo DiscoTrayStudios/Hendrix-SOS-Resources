@@ -1,6 +1,8 @@
 ## Ignore build and debug directories
 SOSResources/obj/
 SOSResources/bin/
+Hendrix-SOS-Resources\obj
+Hendrix-SOS-Resources/obj
 
 # OS generated files # from https://gist.github.com/octocat/9257657
 ######################
